@@ -1,0 +1,8 @@
+How to use VIM editor
+:q! - QUIT
+i - start to edit
+:wq! - save and QUIT
+
+:wq!
+
+
